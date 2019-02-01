@@ -5,14 +5,18 @@ And when they were only half way up,
 They were neither up nor down.
 Needs a title
 
-Oh the grand Duchess of Pork,
-She had nine thousand pigs.
-She marched them up to the top of the hill,
-And she marched them down again.
+Oh the Duchess of Pork,
+She had nine pigs.
+She sprinted up to the top of the hill,
+And she ate them.
 
 And when they were up they were up...
 But when they were down they were down,
 And when they were only half way up...
 they were neither the one nor t'other.
+<<<<<<< HEAD
 This is harder than it needs to be
 And so everyone went home in a massive sulk
+=======
+This is harder than it needs to be
+Joshua Brett is awesome and the duchess of york knows it
