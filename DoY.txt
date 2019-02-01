@@ -34,12 +34,13 @@ And so everyone went home in a massive sulk
 ░░████████████░░░█████████████████
 
 Joshua Brett is awesome and the duchess of york knows it
-<<<<<<< HEAD
 
-=======
 Everyone else should think josh is awesome as well
+<<<<<<< HEAD
 <<<<<<< HEAD
 The duchess of york should employ josh as her IT guy
 =======
 >>>>>>> 019a1ed9d61740e5c439e2c3f398488367e9f816
 >>>>>>> 9d0019e0c66ef8ed93eea03a0f65281b2cc966b7
+=======
+>>>>>>> 0ce9a34eab2034bbe14986454398a48f27b91768
