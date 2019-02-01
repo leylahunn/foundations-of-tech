@@ -34,4 +34,8 @@ And so everyone went home in a massive sulk
 ░░████████████░░░█████████████████
 
 Joshua Brett is awesome and the duchess of york knows it
+<<<<<<< HEAD
 
+=======
+Everyone else should think josh is awesome as well
+>>>>>>> 019a1ed9d61740e5c439e2c3f398488367e9f816
